@@ -1,6 +1,6 @@
 ---
 # tasks file for sa-s3cmd
-  - include: tasks_python.yml
+  - include: tasks_pip.yml
     when: option_install_pip
 
   - include: tasks_s3cmd.yml
