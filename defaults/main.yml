@@ -1,0 +1,4 @@
+---
+# defaults file for sa-s3cmd
+  option_install_pip: true
+# s3cmd_version: 1.6.1
